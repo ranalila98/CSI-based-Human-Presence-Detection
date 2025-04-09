@@ -3,7 +3,7 @@ npy-matlab-master/
 data/
 preprocessed_data/
 trained_models/
-results/
+
 
 # Python cache and logs
 __pycache__/
