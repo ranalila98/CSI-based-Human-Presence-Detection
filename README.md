@@ -11,7 +11,8 @@ This project detects human presence by using WiFi CSI (Channel State Information
 - **Testing**: Detects human presence by identifying outliers in new CSI
 - **Evaluation**: Computes Accuracy, Precision, Recall, and F1-Score (before & after post-processing)
 - - **Reference**: Based on the paper *"One-Class Support Vector Machine for WiFi-based Device-free Indoor Presence Detection"* ([IEEE Xplore](https://ieeexplore.ieee.org/document/10461405))
-
+--**Dataset**: Data: https://utdallas.box.com/s/ln5yo3p7bgz8nbytig0j1tr8vpo6oh8l
+**Preprocessed Dataset**: preprocessed_data : https://utdallas.box.com/s/8uchm97vdem51muk8ykt5bci8gbxiuf0
 ---
 
 ##  How to Run
