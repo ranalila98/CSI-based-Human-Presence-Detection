@@ -24,4 +24,4 @@ This project detects human presence by using WiFi CSI (Channel State Information
 ```bash
 python preprocessing.py
 ```
-### Run train.m and test.m to get the results. It will saved in the results folder.
+Run train.m and test.m to get the results. It will saved in the results folder.
