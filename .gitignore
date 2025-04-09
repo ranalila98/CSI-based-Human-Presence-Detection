@@ -1,0 +1,33 @@
+# Ignore folders
+npy-matlab-master/
+data/
+preprocessed_data/
+trained_models/
+results/
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# MATLAB autosaves, workspaces, and figures
+*.asv
+*.mat
+*.fig
+*.bak
+*.tmp
+*.mex*
+*.p
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code and other editor-specific files
+.vscode/
+*.swp
+
+# Environment and config files
+.env
+*.iml
